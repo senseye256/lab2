@@ -1,0 +1,3 @@
+[submodule "AwesomePythonTools"]
+	path = AwesomePythonTools
+	url = git@github.com:nag2mani/AwesomePythonTools.git
